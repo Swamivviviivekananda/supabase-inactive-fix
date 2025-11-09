@@ -1,8 +1,8 @@
 [
   {
-    "name": "MyWhatsAppAgent",
-    "supabase_url": "https://didyvafvmozcfnyuqnyt.supabase.co",
-    "supabase_key_env": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRpZHl2YWZ2bW96Y2ZueXVxbnl0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI2NjM1MDcsImV4cCI6MjA3ODIzOTUwN30.mh7pIGlqt7-z9F-PuVfKF0ZTsDOVU_Xp1zBMEeLsJvM",
+    "name": "ThinkVault",
+    "supabase_url": "YOUR_PROJECT_URL_HERE",
+    "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"
   }
 ]
